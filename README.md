@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Seccion5
 
 This project was generated with [angular-cli](https://github.com/angular/angular-cli) version 1.0.0-beta.28.3.
@@ -29,3 +30,6 @@ Run `ng github-pages:deploy` to deploy to GitHub Pages.
 ## Further help
 
 To get more help on the `angular-cli` use `ng help` or go check out the [Angular-CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
+=======
+# seccion5
+>>>>>>> f40c59825669c6e0da4a6f779614c1c9c299d0da
